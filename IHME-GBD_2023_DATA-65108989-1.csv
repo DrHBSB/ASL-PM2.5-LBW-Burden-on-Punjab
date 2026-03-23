@@ -1,0 +1,5 @@
+population_group,measure,location,sex,age,cause,metric,year,val,upper,lower
+All Population,Deaths,Punjab,Both,All ages,Neonatal preterm birth,Number,2010,4011.4987012209695,4795.350281457325,3336.26535847166
+All Population,Deaths,Punjab,Both,All ages,Neonatal preterm birth,Rate,2010,14.004395401824153,16.74087079009575,11.647113142832376
+All Population,Deaths,Punjab,Both,All ages,Neonatal preterm birth,Number,2021,2274.982291638785,2791.0948134466666,1803.162096185299
+All Population,Deaths,Punjab,Both,All ages,Neonatal preterm birth,Rate,2021,7.310919460629326,8.969506911365764,5.794670537929351
